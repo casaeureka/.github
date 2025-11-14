@@ -5,7 +5,7 @@
 
 ## Aperçu de l'entreprise
 
-Casa Eureka guide les individus vers l'autonomie technologique en implémentant des alternatives auto-hébergées et axées sur la vie privée aux services cloud commerciaux. Fondée par Maxime Séguin (20+ ans d'expérience en développement et architecture logicielle), l'entreprise priorise l'éducation et l'autonomisation plutôt que la dépendance.
+Casa Eureka guide les individus vers l'autonomie technologique en implémentant des alternatives auto-hébergées et axées sur la vie privée aux services cloud commerciaux. Fondée par Maxime Séguin (20+ ans d'expérience en développement et architecture logicielle), l'entreprise familiale priorise l'éducation et l'autonomisation plutôt que la dépendance.
 
 ## Services principaux
 

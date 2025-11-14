@@ -5,7 +5,7 @@
 
 ## Business Overview
 
-Casa Eureka guides individuals toward technological autonomy by implementing privacy-focused, self-hosted alternatives to commercial cloud services. Founded by Maxime Séguin (20+ years software development/architecture experience), the business prioritizes education and empowerment over dependency.
+Casa Eureka guides individuals toward technological autonomy by implementing privacy-focused, self-hosted alternatives to commercial cloud services. Founded by Maxime Séguin (20+ years software development/architecture experience), the family business prioritizes education and empowerment over dependency.
 
 ## Core Services
 
