@@ -19,7 +19,7 @@ Personal server infrastructure hosting self-controlled applications. Starting $1
 - One-time investment vs endless monthly fees
 
 ### Smart Home Automation
-Home Assistant-based systems providing local control without cloud dependency. Custom installations featuring monitoring (temperature, humidity, air quality), intelligent alerts (leaks, intrusions), device control (lights, thermostats, locks), and advanced automations.
+[Home Assistant](https://github.com/home-assistant) based systems providing local control without cloud dependency. Custom installations featuring monitoring (temperature, humidity, air quality), intelligent alerts (leaks, intrusions), device control (lights, thermostats, locks), and advanced automations.
 
 **Design Principles:**
 - Invisible operation (background automation)
@@ -72,7 +72,7 @@ Individuals/families seeking:
 ## Expansion Plans
 
 21+ services in development including:
-- Tech training sessions (AI, Linux, DevOps, web scraping)
+- Tech training sessions (Home Server/Homelab, Smart Home, AI, Linux, web scraping)
 - Custom PC builds (gaming, workstation, AI servers)
 - 3D printing services
 - Network optimization (10Gbps, Wi-Fi mesh)

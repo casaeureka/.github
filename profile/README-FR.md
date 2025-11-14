@@ -18,8 +18,8 @@ Infrastructure de serveur personnel hébergeant des applications auto-contrôlé
 - Stockage/capacités illimitées
 - Investissement unique vs frais mensuels perpétuels
 
-### Domotique intelligente
-Systèmes basés sur Home Assistant offrant un contrôle local sans dépendance au cloud. Installations personnalisées incluant surveillance (température, humidité, qualité de l'air), alertes intelligentes (fuites, intrusions), contrôle d'appareils (lumières, thermostats, serrures) et automatisations avancées.
+### Maison intelligente (domotique)
+Systèmes basés sur [Home Assistant](https://github.com/home-assistant) offrant un contrôle local sans dépendance au cloud. Installations personnalisées incluant surveillance (température, humidité, qualité de l'air), alertes intelligentes (fuites, intrusions), contrôle d'appareils (lumières, thermostats, serrures) et automatisations avancées.
 
 **Principes de conception:**
 - Fonctionnement invisible (automatisation en arrière-plan)
@@ -72,7 +72,7 @@ Individus/familles recherchant:
 ## Plans d'expansion
 
 21+ services en développement incluant:
-- Sessions de formation tech (Serveurs maison, Maisons Intelligentes/Domotique, IA, Linux, DevOps, web scraping)
+- Sessions de formation tech (Serveur maison, Maison Intelligente/Domotique, IA, Linux, web scraping, etc)
 - Assemblages PC sur mesure (gaming, workstation, serveurs IA)
 - Services d'impression 3D
 - Optimisation réseau (10Gbps, mesh Wi-Fi)
